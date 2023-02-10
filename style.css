@@ -1,0 +1,63 @@
+.bankheader h1 {
+  text-transform: uppercase;
+}
+.bankheader h3 {
+  font-size: 30 px;
+  text-transform: uppercase;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.dipositarea {
+  background: beige;
+  padding: 22px 10px;
+  margin-bottom: 30px;
+  border-radius: 50px;
+  background-color: red;
+  border: 3px solid black;
+}
+.withdrawarea {
+  background: beige;
+  padding: 22px 10px;
+  border-radius: 50px;
+  background-color: red;
+  border: 3px solid black;
+  color: white;
+}
+.dipositarea h1 {
+  font-size: 20px;
+  color: white;
+}
+.withdrawarea h1 {
+  font-size: 18px;
+}
+.innerpage {
+  display: none;
+}
+.loginformarea {
+  padding: 155px 0px;
+}
+button#addbtn {
+  border-radius: 10px;
+  border: none;
+  padding: 4px 9px;
+}
+#withdrawbtn {
+  border-radius: 10px;
+  border: none;
+  padding: 4px 9px;
+}
+.dipositarea input {
+  border-radius: 11px;
+  border: none;
+}
+.withdrawarea input {
+  border-radius: 11px;
+  border: none;
+}
+.loginform h2 {
+  text-transform: capitalize;
+}
+.loginform h1 {
+  background-color: blue;
+  color: white;
+}
